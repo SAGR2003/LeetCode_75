@@ -1,11 +1,11 @@
 package Greatest_Common_Divisor_Of_Strings;
 
-public class greatestCommonDivisorOfStrings {
+public class GreatestCommonDivisorOfStrings {
     public static void main(String[] args) {
-        new greatestCommonDivisorOfStrings();
+        new GreatestCommonDivisorOfStrings();
     }
 
-    public greatestCommonDivisorOfStrings() {
+    public GreatestCommonDivisorOfStrings() {
         System.out.println(gcdOfStrings("ABCABC", "ABC"));
         System.out.println(gcdOfStrings("ABABAB", "AB"));
         System.out.println(gcdOfStrings("LEET", "CODE"));

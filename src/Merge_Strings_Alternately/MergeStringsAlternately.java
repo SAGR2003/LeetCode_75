@@ -1,11 +1,11 @@
 package Merge_Strings_Alternately;
 
-public class mergeStringsAlternately {
+public class MergeStringsAlternately {
     public static void main(String[] args) {
-        new mergeStringsAlternately();
+        new MergeStringsAlternately();
     }
 
-    public mergeStringsAlternately() {
+    public MergeStringsAlternately() {
         System.out.println(mergeAlternately("abc", "pqr"));
         System.out.println(mergeAlternately("ab", "pqrs"));
         System.out.println(mergeAlternately("abcd", "pq"));
